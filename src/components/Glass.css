@@ -29,6 +29,11 @@
   margin: 10px 0;
 }
 
+.glass__form__group p {
+  font-family: sans-serif;
+  font-size: 12px;
+}
+
 .glass__form__input {
   width: 100%;
   background: transparent;
